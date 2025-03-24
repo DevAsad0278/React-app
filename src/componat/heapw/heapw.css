@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+.wel {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.wel-o {
+  color: rgb(13 148 136);
+}
+.hapo h1 {
+  font-weight: 600;
+  font-size: 3.4rem;
+  line-height: 1;
+}
+.hapo span {
+  color: rgb(13 148 136);
+}
+.heap {
+  display: flex;
+  flex-direction: column;
+  height: 90%;
+  margin: auto;
+}
+.heep {
+  height: 100vh;
+}
+.iioi {
+  display: flex;
+  gap: 200px;
+  width: 90%;
+  margin: auto;
+  justify-content: center;
+}
+.counter img {
+  height: 600px;
+  width: 500px;
+  border-radius: 10px;
+}
+.heap-p p {
+  color: rgb(55 65 81);
+}
+.img-cntent {
+  display: flex;
+  gap: 50px;
+}
+.counters h1 {
+  color: rgb(13 148 136);
+  font-size: 50px;
+  text-align: center;
+  font-weight: 700;
+}

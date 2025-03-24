@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+.oo {
+  display: flex;
+  justify-content: space-between;
+}
+.pro {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+.hero {
+  height: 100vh;
+}
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 90%;
+  margin: auto;
+  justify-content: center;
+  align-items: start;
+  height: 90%;
+}
+.it h1 {
+  font-size: 5rem;
+  font-weight: 600;
+}
+.it span {
+  font-size: 4.5rem;
+  color: rgb(13 148 136);
+  font-weight: 500;
+}
+.hero-btn button {
+  border: none;
+  background-color: rgb(13 148 136);
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: all 0.5s;
+  transform: scaleX(1, 2);
+}
